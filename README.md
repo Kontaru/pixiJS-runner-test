@@ -1,0 +1,1 @@
+# pixijs-vite-template
